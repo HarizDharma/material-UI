@@ -1,2 +1,2 @@
 # material-UI
-Template "Material UI Dashio"
+Template "Material UI"
